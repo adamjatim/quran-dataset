@@ -13,6 +13,6 @@
 
 
 ### Recap Information
-<img src="./distribusi_surat_turun.svg" alt="" />
-<img src="./nama_surat.svg" alt="" />
-<img src="./panjang_ayat.svg" alt="" />
+<img src="./images/distribusi_surat_turun.svg" alt="" />
+<img src="./images/nama_surat.svg" alt="" />
+<img src="./images/panjang_ayat.svg" alt="" />
